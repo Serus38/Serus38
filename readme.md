@@ -52,6 +52,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Serus38&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serus38&layout=compact&theme=tokyonight" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 </p>
 
 ---
