@@ -48,18 +48,21 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serus38&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serus38&layout=compact&theme=tokyonight" />
-</p>
+<div align="center"
+<a href="https://github.com/Serus38/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Serus38&theme=blue_navy" />
+</a>
+<a href="https://github.com/Serus38/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Serus38&theme=blue_navy&layout=compact&langs_count=6&card_width=320" />
+</a>
+</div>
 
 ---
 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Serus38&theme=tokyonight" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Serus38&theme=blue-navy&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
