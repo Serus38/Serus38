@@ -52,7 +52,7 @@
 <a href="https://github.com/Serus38/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Serus38&theme=blue_navy" />
 </a>
-<a href="https://github.com/Serus38/convoychat">
+<a>
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Serus38&theme=blue_navy&layout=compact&langs_count=6&card_width=320" />
 </a>
 </div>
