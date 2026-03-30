@@ -62,7 +62,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Serus38&theme=blue-navy&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+  <a><img src="https://streak-stats.demolab.com?user=Serus38&theme=blue-navy&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
