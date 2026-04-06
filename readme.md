@@ -47,25 +47,14 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center"
-<a href="https://github.com/Serus38/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Serus38&theme=blue_navy" />
-</a>
-<a>
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Serus38&theme=blue_navy&layout=compact&langs_count=6&card_width=320" />
-</a>
+## 📊 GitHub Stats & Streak
+<div align="center">
+
+<img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=Serus38&theme=blue_navy&hide_border=true"/>
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Serus38&theme=blue-navy&hide_border=true"/>
+<img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Serus38&theme=blue_navy&layout=compact&langs_count=6&hide_border=true"/>
+
 </div>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Serus38&theme=blue-navy&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</p>
-
----
 
 ## 🌐 Connect with me
 
