@@ -50,9 +50,9 @@
 ## 📊 GitHub Stats & Streak
 <div align="center">
 
-<img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=Serus38&theme=blue_navy&hide_border=true"/>
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Serus38&theme=blue-navy&hide_border=true"/>
 <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Serus38&theme=blue_navy&layout=compact&langs_count=6&hide_border=true"/>
+<img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=Serus38&theme=blue_navy&hide_border=true"/>
 
 </div>
 
