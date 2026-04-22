@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">Fullstack Developer | Backend & API Development | Data Analysis</h3>
+<h3 align="center">Java Backend Developer | Spring Boot · REST APIs · SQL · Power BI</h3>
 <p align="center"> https://srudev.vercel.app/ </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Fullstack+Developer;Backend+%26+API+Specialist;Data+Analysis+Enthusiast;Always+Learning+New+Technologies" />
